@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 a fellow coder on journey to bring change 
 
 <!--
 **akshk-19/akshk-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
