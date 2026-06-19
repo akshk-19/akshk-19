@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building projects,learning DSA, stregthning my core concepts
 - 🌱 I’m currently learning how to build like tony stark!
-- 🤔 I’m looking for help with 
+- 🤔 Exploring - AI/ML,IoT,Data Science & Blockchain
 - 💬 Currently hustling grades,growth,grind and of git 
-- ⚡ Fun fact- Being an Engineer is more that coding :)
+- ⚡ Fun fact- Being an Engineer is more that coding and so is this profile :)
 
