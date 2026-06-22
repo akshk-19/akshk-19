@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building projects,learning DSA, stregthning my core concepts
 - 🌱 I’m currently learning how to build like tony stark!
 - 🤔 Exploring - AI/ML,Cybersecurity,Data Science & Blockchain
-- 💬 Currently hustling grades,growth,grind and of git 
+- 💬 Currently hustling grades,growth,grind and ofcourse git 
 - ⚡ Fun fact- Being an Engineer is more that coding and so is this profile :)
 
