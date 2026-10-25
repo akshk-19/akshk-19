@@ -25,8 +25,6 @@ akshita@medicaps:~$ cat profile.conf
 
 name        = "Akshita Kushwaha"
 degree      = "B.Tech, Computer Science & Engineering (2024 - 2028)"
-university  = "Medi-Caps University, Indore"
-cgpa        = 8.56
 focus       = ["networking", "cybersecurity", "distributed systems"]
 internship  = "Security Engineer Intern @ Vibs Infosol (Jun - Aug 2026)"
 research    = "Co-author, SCOPUS-indexed paper on AI-powered network routing"
