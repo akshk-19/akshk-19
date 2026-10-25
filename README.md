@@ -8,11 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%202024--2028-00C98D?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/CGPA-8.56%2F10-00C98D?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Location-Indore%2C%20India-00C98D?style=for-the-badge&labelColor=0D1117" />
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/akshita-kushwaha-swe2006"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
